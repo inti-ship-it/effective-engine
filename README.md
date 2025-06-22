@@ -4,4 +4,4 @@
 
 This is a chart I made to visualize the response to the question. 
 
-![This is a data wrapper chart]{YgQE0-to-recline-or-not-to-recline.png}
+![This is a data wrapper chart](YgQE0-to-recline-or-not-to-recline.png)
